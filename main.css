@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #e6e2d3;
+}
+.main{
+    height: 420px;
+    width: 300px;
+    background-color:white;
+    box-shadow: 5px 5px 10px #b2b2b2;
+    margin: 100px 550px;
+}
+.dp{
+    height: 150px;
+    width:300px;
+}
+.dp img{
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin: 20px 85px;
+}
+.heading{
+    height: 50px;
+    width: 300px;
+    
+}
+.heading h1{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.user .password{
+    height: 50px;
+}
+.info input{
+    height: 40px;
+    width: 260px;
+    margin: 8px 18px;
+    background-color: transparent;
+    border: 1px solid gray;
+    text-align: center;
+    outline: none;
+    
+}
+.logIn{
+    height: 50px;
+    width: 300px;
+}
+.logIn button{
+    height: 40px;
+    width: 260px;
+    margin: 5px 18px;
+    background-color:#33cc33;
+    border: 1px solid #33cc33;
+}
+button:on click{
+    border: none;
+}
+.remember input{
+    margin-left: 18px;
+    margin-top: 15px;
+}
+label{
+    font-size: 12px;
+}
+.remember a{
+    margin-left: 85px;
+    font-size: 12px;
+}
